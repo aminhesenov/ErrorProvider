@@ -1,0 +1,16 @@
+D:\C# dersleri\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.exe
+D:\C# dersleri\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.deps.json
+D:\C# dersleri\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.runtimeconfig.json
+D:\C# dersleri\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.dll
+D:\C# dersleri\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.pdb
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.Form1.resources
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.csproj.GenerateResource.cache
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.AssemblyInfoInputs.cache
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.AssemblyInfo.cs
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.csproj.CoreCompileInputs.cache
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.dll
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\refint\ErrorProvider.dll
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.pdb
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.genruntimeconfig.cache
+D:\C# dersleri\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ref\ErrorProvider.dll
